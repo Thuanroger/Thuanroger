@@ -49,7 +49,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook.com/ThuanNguyen-0068c9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ThuanRoger)
 
-[![Gmail](https://img.shields.io/badge/nguyenguyenthuan231@gmail.com-bd0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCBjtvwGvqLZhmbXgnhfWnmmksJpgLSrfVZNsJrgtQKJTbJbbJmnjjHhbKHHMRRjnWLNnq)
+[![Gmail](https://img.shields.io/badge/nguyenguyenthuan231@gmail.com-bd0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=new)
 
 [![Github](https://img.shields.io/badge/Github.com/nlnhat28-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlnhat28/)
 
