@@ -39,9 +39,8 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo-Rikkei.png" width="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_MISA.svg/1280px-Logo_MISA.svg.png" width="60px"> &nbsp; -->
 
-* 06/2023 - present : **<a style="color: yellow" href="https://www.misa.vn/" target="_blank">Misa JSC, Hanoi</a>**
+* 06/2023 - 09/2023 : **<a style="color: yellow" href="https://www.misa.vn/" target="_blank">Misa JSC, Hanoi</a>**
 
-* 08/2022 - 10/2022 : **<a style="color: red" href="https://rikkeisoft.com/" target="_blank">Rikkeisoft, Hanoi</a>**
 
 <br/>
 
