@@ -53,4 +53,4 @@
 
 [![Github](https://img.shields.io/badge/Github.com/ThuanNguyen-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thuanroger/)
 
-[![Phone](https://img.shields.io/badge/0818627285-00a819?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0326722231)
+[![Phone](https://img.shields.io/badge/0326722231-00a819?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0326722231)
