@@ -15,6 +15,7 @@
 # <img src="Assets/Images/bulb.gif" width="35px" height="35px"> Skills <img src="Assets/Images/break-line.gif">
 <img src="https://img.shields.io/badge/.NET-5d00ff?logo=csharp&logoColor=00ff22" title="C# .NET" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Java-256da8?logo=Java&logoColor=f5e105" title="Python Django" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-256da8?logo=Python&logoColor=f5e105" title="Python Django" height="25"/> &nbsp;
 
 <img src="https://img.shields.io/badge/Html-00aa00?logo=html5&logoColor=white" title="Html" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Css-004cff?logo=css3&logoColor=white" title="Css" height="25"/> &nbsp;
